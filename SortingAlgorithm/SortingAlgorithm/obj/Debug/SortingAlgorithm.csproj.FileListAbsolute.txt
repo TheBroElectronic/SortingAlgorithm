@@ -1,0 +1,9 @@
+D:\visual studi\SortingAlgorithm\SortingAlgorithm\bin\Debug\SortingAlgorithm.exe.config
+D:\visual studi\SortingAlgorithm\SortingAlgorithm\bin\Debug\SortingAlgorithm.exe
+D:\visual studi\SortingAlgorithm\SortingAlgorithm\bin\Debug\SortingAlgorithm.pdb
+D:\visual studi\SortingAlgorithm\SortingAlgorithm\obj\Debug\SortingAlgorithm.csprojResolveAssemblyReference.cache
+D:\visual studi\SortingAlgorithm\SortingAlgorithm\obj\Debug\SortingAlgorithm.Form1.resources
+D:\visual studi\SortingAlgorithm\SortingAlgorithm\obj\Debug\SortingAlgorithm.Properties.Resources.resources
+D:\visual studi\SortingAlgorithm\SortingAlgorithm\obj\Debug\SortingAlgorithm.csproj.GenerateResource.Cache
+D:\visual studi\SortingAlgorithm\SortingAlgorithm\obj\Debug\SortingAlgorithm.exe
+D:\visual studi\SortingAlgorithm\SortingAlgorithm\obj\Debug\SortingAlgorithm.pdb
